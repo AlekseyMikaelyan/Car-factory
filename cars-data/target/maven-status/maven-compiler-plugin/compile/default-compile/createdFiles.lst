@@ -1,0 +1,11 @@
+org\example\carfactory\data\repository\impl\CarRepositoryImpl.class
+org\example\carfactory\data\entity\Car$Engine.class
+org\example\carfactory\data\service\impl\CarServiceImpl.class
+org\example\carfactory\data\entity\Car.class
+org\example\carfactory\data\repository\AbstractRepository.class
+org\example\carfactory\data\serialnumber\AbleToMakeSerialNumber.class
+org\example\carfactory\data\entity\Car$Engine$1.class
+org\example\carfactory\data\service\CarService.class
+org\example\carfactory\data\repository\CarRepository.class
+org\example\carfactory\data\entity\AbstractData.class
+org\example\carfactory\data\service\AbstractService.class
